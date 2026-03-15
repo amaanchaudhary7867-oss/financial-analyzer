@@ -13,6 +13,14 @@ The architecture follows a production-style design with API backend, background 
 
 ---
 
+## Problem Statement
+
+Financial datasets often contain multiple indicators that need to be evaluated together 
+to determine overall performance.
+
+This project builds an API-based scoring system that evaluates financial metrics and 
+computes a comparative ranking of financial entities based on configurable scoring logic.
+
 ## System Architecture
 
 Components:
